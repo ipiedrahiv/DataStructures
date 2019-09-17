@@ -1,0 +1,10 @@
+1 12200 20100 Arreglar la habitacion
+2 20600 62200 Viajar a Rionegro
+3 21100 22100 Campeonato de Ajedrez
+4 21900 22300 Asisitir al Concierto de Salsa
+5 31500 41500 Torneo Ultimate
+6 41000 41600 Paintball
+7 61200 61400 Ronda de Topcoder
+8 62030 62045 Tomar una Ducha
+9 62100 70600 Noche de Rumba
+10 62101 62359 Concurso de Baile
